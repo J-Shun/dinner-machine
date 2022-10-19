@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dinner-machine/static/js/main.3ccd1477.js",
+    "index.html": "/dinner-machine/index.html",
+    "main.3ccd1477.js.map": "/dinner-machine/static/js/main.3ccd1477.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3ccd1477.js"
+  ]
+}
